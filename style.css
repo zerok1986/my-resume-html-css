@@ -65,7 +65,6 @@ body {
   padding-bottom: 1rem;
 }
 
-/* .contact-info { border-bottom: 2px solid #1B2631; } */
 .left-title {
   color: #d6dbdf;
   font-size: 20px;
@@ -263,7 +262,6 @@ body {
 
   .contact-info ul li i,
   .languages ul li i {
-    /* padding-right: 1rem; */
     font-size: 12px;
   }
 
