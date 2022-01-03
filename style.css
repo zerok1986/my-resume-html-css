@@ -81,6 +81,10 @@ body {
   padding-top: 1.5rem;
 }
 
+.contact-info i {
+  min-width: 36px;
+}
+
 .contact-info ul li,
 .languages ul li {
   padding: 0.4rem 0;
